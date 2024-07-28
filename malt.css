@@ -140,6 +140,8 @@ width: 700px;
     }
     .gopi a h3{
         font-size: 10px;
+        display: flex;
+        align-items: center;
         width: 300px;
     }
 }
